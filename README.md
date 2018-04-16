@@ -11,5 +11,7 @@ https://github.com/serratus/quaggaJS
 
 # How to run
 
-yarn || npm install
-yarn start || npm start
+```
+yarn
+yarn start
+```
